@@ -9,3 +9,14 @@ C:\Users\User\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
 C:\Users\User\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
 C:\Users\User\myApp\obj\Debug\netcoreapp3.1\myApp.dll
 C:\Users\User\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Users\User\Source\Repos\My-first-C-.NET-app\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
