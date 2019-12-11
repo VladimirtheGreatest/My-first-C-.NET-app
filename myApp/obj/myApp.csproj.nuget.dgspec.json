@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\My-first-C-.NET-app\\myApp\\myApp.csproj": {}
+    "C:\\Users\\User\\source\\repos\\My-first-C-.NET-app\\myApp\\myApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\My-first-C-.NET-app\\myApp\\myApp.csproj": {
+    "C:\\Users\\User\\source\\repos\\My-first-C-.NET-app\\myApp\\myApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\My-first-C-.NET-app\\myApp\\myApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\My-first-C-.NET-app\\myApp\\myApp.csproj",
         "projectName": "myApp",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\My-first-C-.NET-app\\myApp\\myApp.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\My-first-C-.NET-app\\myApp\\myApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\My-first-C-.NET-app\\myApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\My-first-C-.NET-app\\myApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
