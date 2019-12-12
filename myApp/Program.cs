@@ -6,10 +6,27 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Better calculator 1.0");
-            Console.WriteLine("The current time is " + DateTime.Now);
+            try
+            {
+                Console.WriteLine("Better calculator 1.0");
+                Console.WriteLine("The current time is " + DateTime.Now);
 
-             Console.Write("Enter your number: ");
+                Calculation();
+                
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Executed");
+            }
+
+        }
+        static void Calculation()
+        {
+            Console.Write("Enter your number: ");
             double number1 = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Enter the operator: ");
@@ -20,27 +37,30 @@ namespace myApp
 
             double Result = 0;
 
-            if(Operator == "+")
+            if (Operator == "+")
             {
                 Result = number1 + number2;
                 Console.WriteLine(Result);
-            } else if (Operator == "-")
+            }
+            else if (Operator == "-")
             {
                 Result = number1 - number2;
                 Console.WriteLine(Result);
-            } else if (Operator == "*")
+            }
+            else if (Operator == "*")
             {
                 Result = number1 * number2;
                 Console.WriteLine(Result);
-            } else if (Operator == "*")
+            }
+            else if (Operator == "*")
             {
                 Result = number1 / number2;
                 Console.WriteLine(Result);
-            } else
+            }
+            else
             {
                 Console.WriteLine("Invalid operator");
             }
-
         }
     }
 }
